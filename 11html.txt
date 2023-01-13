@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Grid</title>
+  <body>
+  <div class="grid">
+<div class="gallery">
+  <figure class="gallery__item gallery__item--1">
+    <img src="https://media.kg-portal.ru/images/bungoustraydogsdeadapple/bungoustraydogsdeadapple_14.jpg" class="gallery__img" alt="Image 1">
+  </figure>
+  <figure class="gallery__item gallery__item--2">
+    <img src="https://kartinkin.net/uploads/posts/2021-07/1625518150_62-kartinkin-com-p-anime-brodyachie-psi-literaturnie-genii-an-62.jpg" class="gallery__img" alt="Image 2">
+  </figure>
+  <figure class="gallery__item gallery__item--3">
+    <img src="https://slovnet.ru/wp-content/uploads/2018/11/28-16.jpg" class="gallery__img" alt="Image 3">
+  </figure>
+  <figure class="gallery__item gallery__item--4">
+    <img src="https://m.media-amazon.com/images/M/MV5BZTYxMWIzNjktMmIyYS00MGY1LWFiZTEtODIzYzNiMDBjNzRkXkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_.jpg" class="gallery__img" alt="Image 4">
+  </figure>
+  <figure class="gallery__item gallery__item--5">
+    <img src="https://m.diskomir.ru/upload/iblock/4ae/4ae7f6f881efe9e9c50dd621b0cf7654.jpg" class="gallery__img" alt="Image 5">
+  </figure>
+  <figure class="gallery__item gallery__item--6">
+    <img src="https://pbs.twimg.com/media/FIv4smjXMAYj1Je.jpg" class="gallery__img" alt="Image 6">
+  </figure>
+</div>
+    </body>
+    </html>
