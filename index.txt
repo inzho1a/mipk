@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Задание 6</title>
+</head>
+<body>
+<img class="tint" src="https://static.tildacdn.com/tild3333-3635-4765-b531-313062376331/RussiaPost_00.jpg"width="100%"/>
+  <div class="centred"> 
+ <form>
+Имя: <input type = "text" class = "test1" ><br><br>
+Фамилия: <input type = "text" class = "test1" ><br><br>
+   Индекс: <input type = "text" class = "test2" ><br><br>
+   Город: <input type = "text" class = "test2" ><br><br>
+   Улица: <input type = "text" class = "test3" ><br><br>
+   Дом: <input type = "text" class = "test3" ><br><br>
+   Квартира: <input type = "text" class = "test3" ><br><br>
+</form>
+  <button class="test1">Отправить</button>
+    </div>
+  </body>
+</html>

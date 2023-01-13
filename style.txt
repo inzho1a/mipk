@@ -1,0 +1,24 @@
+.centred { position: absolute; /*расположение*/
+ text-align: right; /*выключка текста*/
+  top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /*трансформация*/
+font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif; /*гарнитура*/
+  font-size: 15px; /*кегль гарнитуры*/
+}
+
+.tint{opacity: 30%; /*непрозрачность*/
+ position: absolute; /*расположение*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /*трансформация*/
+}
+input.test1:focus {
+background-color: orange; /*цвет фона*/
+}
+input.test2:focus {
+background-color: khaki; /*цвет фона*/
+}
+input.test3:focus {
+background-color: beige; /*цвет фона*/
+}
