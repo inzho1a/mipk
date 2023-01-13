@@ -1,0 +1,18 @@
+#spinner {
+ 
+    animation-name: spinner;
+    animation-timing-function: linear; /* задание типа движения - равномерное */
+    animation-iteration-count: infinite; /* задание повторений движения */
+    animation-duration: 6s; /* задание продолжительности движения */
+   
+    transform-style: preserve-3d;
+  }
+
+  #spinner:hover {
+   
+    animation-play-state: paused;
+  }
+
+@keyframes spinner {
+  50% {transform:  rotateX(-360deg);}
+  }
