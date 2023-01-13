@@ -1,0 +1,37 @@
+.wrapper {
+  height: 100vh;
+}
+
+.parallax-img {
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Задаем свойства элементов */
+
+body {
+  margin: 0;
+  background: #fff;
+}
+
+* {
+  font-family: Candara;
+  color: black;
+}
+
+h1 {
+  margin: 15px;
+  text-align: center;
+}
+
+p {
+  margin: 15px;
+  font-size: 1.1rem;
+}
+
+.parallax-img {
+  background-image: url('https://www.cestujlevne.com/obrazky/06/73/673-2160w.jpg');
+}
