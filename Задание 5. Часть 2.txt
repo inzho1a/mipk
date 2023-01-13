@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Задание 5: часть 2</title>
+</head>
+<body>
+<div class="grid">
+            <div>Принятие решений</div>
+            <div>Функции и полномочия</div>
+            <div>Неофициальные заседания</div>
+            <div>Выборы</div>
+            <div>Общие прения</div>
+            <div>Вспомогательные органы</div>
+            <div>Специальные сессии</div>
+            <div>Осуществление работы </div>
+            <div>Активизация работы</div>
+    </div>
+   </body>
+</html>
+
+
+.grid *{ padding: 10px; /*отступ*/
+  background-color: rgb(96 143 204); /*цвет фона*/
+  text-align: center; /*расположение текста*/
+  line-height: 40px; /*положение по высоте*/
+  font-size: 16px; /*кегль гарнитуры*/
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif; color: #ffff; /*гарнитура*/
+}
+.grid{ display: grid; /*вид блока*/
+grid-template-columns: repeat(3, 200px); /*колонки*/
+grid-template-rows:100px 100px 100px; /*строки*/
+grid-gap:30px ; /*отступ сток и колонок друг от друга*/
+}
