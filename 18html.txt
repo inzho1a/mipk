@@ -1,0 +1,13 @@
+<div class="container">
+  <div class="clock">
+    <div class="clock-inner">
+      <div class="clock-minutes"></div>
+    <ul class="clock-numbers">
+            <li>XII</li>
+            <li>III</li>
+            <li>VI</li>
+            <li>IX</li>
+          </ul></div>
+  </div>
+  <h3>навести для паузы</h3>
+</div>
